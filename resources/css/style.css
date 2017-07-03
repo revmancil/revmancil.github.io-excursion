@@ -14,3 +14,23 @@
   color: aquamarine;
   font-size: 16px;
 }
+
+.info h1 {
+  font-weight: 300;
+  font-size: 42 px;
+  color: white;
+}
+
+.info h2 {
+  font-size: 21 px;
+  color: gray;
+}
+
+.footer h3 {
+  color: gray;
+  text-align: right;
+}
+
+.footer h1 {
+  color: white;
+}
